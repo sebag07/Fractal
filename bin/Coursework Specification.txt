@@ -1,0 +1,9 @@
+To run the GUI application, one must write "java Main" in the command line.
+
+All Parts of the Coursework have been completed.
+
+Extensions:
+- provided real-time update for the Julia Set
+- 2 new types of Fractals ( Burning Ship, Quadratic Mandelbrot)
+- Implemented the Orbit Trap
+
